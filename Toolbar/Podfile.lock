@@ -1,0 +1,20 @@
+PODS:
+  - Anchorage (4.5.0)
+  - ReactiveSwift (6.6.0)
+
+DEPENDENCIES:
+  - Anchorage
+  - ReactiveSwift
+
+SPEC REPOS:
+  trunk:
+    - Anchorage
+    - ReactiveSwift
+
+SPEC CHECKSUMS:
+  Anchorage: 1961bc81c84aeed54ad7ffc697c50cd9de748ba6
+  ReactiveSwift: be9407e2aaf8a11e53a5229255693cffd9a63ccf
+
+PODFILE CHECKSUM: a3c9e1ea03107ebab26ac188dc78c5fd0a394141
+
+COCOAPODS: 1.9.3
